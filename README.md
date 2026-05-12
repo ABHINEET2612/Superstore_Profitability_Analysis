@@ -109,7 +109,7 @@ of financial losses.
 
 ---
 
-*Analysis conducted as part of a data analyst portfolio project.*
+Author - Abhineet Gaur
 
 
 
